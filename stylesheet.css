@@ -1,0 +1,40 @@
+body{
+    background-color: #fff1e6;
+}
+h1{
+    color: #4a4e69;
+    background-color: #fad2e1;
+    
+}
+h2{
+    color: antiquewhite;
+    background-color: #f28482;
+}
+.main{
+
+    background-color: #cddafd;
+}
+.sweet3{
+    background-color: #d8e2dc;
+}
+ul{
+    list-style: none;
+    background-color: #d0d1ff;
+}
+
+.sweet3:hover{
+    color: blue;
+}
+.nation1:hover{
+
+    background-color: yellow;
+}
+.nation2:hover{
+    background-color: pink;
+}
+.drop:active{
+    color: blueviolet;
+}
+.drop2:active{
+    color: blueviolet;
+}
